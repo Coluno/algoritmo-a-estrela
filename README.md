@@ -27,8 +27,8 @@ Primeiro, definimos o algoritmo de busca que iremos usar e, em seguida, utilizam
 6. Os resultados serão exibidos na tela.
 
 ## Colaboradores
-Gabriel Canuto de Alencar
-Hugo Augusto Araújo Silva
+- Gabriel Canuto de Alencar
+- Hugo Augusto Araújo Silva
 
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
